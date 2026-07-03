@@ -1,6 +1,1 @@
-1000|Severoos|19|A+|9810294872|Kausaltar
-1001|Prabesh |19|O+|9876543210|Chandragiri
-1002|Aayan |18|AB+|9898877765|Kalanki
-1003|shyam|18|A-|0912848594|kalanki 
-1004|joseph|19|A-|9874383838|kalanki
-1005|john|25|AB+|9874561264|kirtipur
+
